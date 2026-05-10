@@ -1,0 +1,10 @@
+{
+  "name": "ToànPro - Construction Management",
+  "description": "Ứng dụng quản lý dự án xây dựng đa dự án với AI phân tích rủi ro, tra cứu định mức, pháp luật xây dựng và dự báo thời tiết công trường.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
